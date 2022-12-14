@@ -1,0 +1,6 @@
+
+
+
+it is distributed version control system
+
+A collection of user accounts that owns repositories
